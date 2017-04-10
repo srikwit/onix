@@ -353,5 +353,5 @@ sleep 5
 clear
 examine_active_data
 examine_passive_data
-display_exit_success
+display_exit_message
 cd ..
